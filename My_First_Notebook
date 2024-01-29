@@ -1,0 +1,72 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "id": "0544ab0c-149d-4e6e-82c3-3a1d0e208a25",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "In Jupyter Notebooks, cells serve as essential units for content organization. Code cells are utilized for writing and executing executable code, while markdown cells are employed for presenting formatted, non-executable text. This dual-cell structure enables a seamless integration of code execution and explanatory content in a versatile interactive computing environment.\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"In Jupyter Notebooks, cells serve as essential units for content organization. Code cells are utilized for writing and executing executable code, while markdown cells are employed for presenting formatted, non-executable text. This dual-cell structure enables a seamless integration of code execution and explanatory content in a versatile interactive computing environment.\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "id": "cca93955-9f75-4471-8317-f85dcdbe0258",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Hello, My name is Liz\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"Hello, My name is Liz\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "41b73669-aa7b-46b1-852f-fa062a762578",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# My first markdown cell in Jupyter"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "anaconda-panel-2023.05-py310",
+   "language": "python",
+   "name": "conda-env-anaconda-panel-2023.05-py310-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.11.5"
+  },
+  "toc-autonumbering": true
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
